@@ -2,9 +2,7 @@ import todoimg from  "../images/todoimg.png";
 import hospitaliimg from "../images/hospitalimg.png";
 import imgproject from "../images/Imgproject.png"
 
-
-
-
+ 
 export const Bio = {
   name: "Karan Sakure",
   roles: [
