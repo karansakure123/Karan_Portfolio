@@ -112,12 +112,12 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://a2zithub.org/assets/165710745335077275.png", // Replace with actual image URL if needed
-    role: "Frontend Development Intern",
-    company: "A2Z IT Hub",
-    date: "April 2023 - June 2023",
-    desc: "Worked as a Frontend Development Intern, focusing on developing responsive and user-friendly web applications. Contributed to various projects, implementing frontend features and optimizing performance.",
-    skills: [
+    img: "https://bigosoftwares.com/img/logo.png", // Replace with actual image URL if needed
+    role: "Mern Stack Developer SDE",
+    company: "Bigo Softwares Pvt Ltd Ahilyanagar",
+    date: "Sept 2023 - Present",
+   desc:"Experienced Mern Developer skilled in building responsive, user-friendly web applications using React.js, Redux, JavaScript, HTML5, and CSS3. Proficient in creating scalable, high-performance solutions with clean, maintainable code  ",
+   skills: [
       "React",
       "JavaScript",
       "HTML",
